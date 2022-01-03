@@ -1,16 +1,14 @@
-### Hi there 👋
+﻿# Hey There! 👋
 
-<!--
-**toannguyen3105/toannguyen3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Nguyen Huy Toan. A software engineer from Hanoi, Vietnam.
 
-Here are some ideas to get you started:
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJae_agpt9S3qwWNED0KHcQ?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UCRyQnyUjF9IKnPcOgE955Ww?sub_confirmation=1)
+[![GitHub Followers](https://img.shields.io/github/followers/jarrodwatts?label=GitHub%20Followers!&style=social)](https://github.com/toannguyen3105)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I'm a software engineer specializing in full-stack web development.
+
+I make content about full-stack web development on my [Blog](https://toannguyen3105.com/) and my [YouTube Channel](https://www.youtube.com/channel/UCRyQnyUjF9IKnPcOgE955Ww).
+
+Thanks for stopping by!
