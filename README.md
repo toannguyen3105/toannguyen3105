@@ -2,8 +2,8 @@
 
 ## I'm Nguyen Huy Toan. A software engineer from Hanoi, Vietnam.
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJae_agpt9S3qwWNED0KHcQ?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UCRyQnyUjF9IKnPcOgE955Ww?sub_confirmation=1)
-[![GitHub Followers](https://img.shields.io/github/followers/jarrodwatts?label=GitHub%20Followers!&style=social)](https://github.com/toannguyen3105)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRyQnyUjF9IKnPcOgE955Ww?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UCRyQnyUjF9IKnPcOgE955Ww?sub_confirmation=1)
+[![GitHub Followers](https://img.shields.io/github/followers/toannguyen3105?label=GitHub%20Followers!&style=social)](https://github.com/toannguyen3105)
 
 ---
 
